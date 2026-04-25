@@ -1,0 +1,130 @@
+﻿<Window x:Class="KluboviSrbije.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:notifications="clr-namespace:Notification.Wpf.Controls;assembly=Notification.Wpf"
+        Title="Prijava"
+        Width="450" Height="400"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown">
+
+    <Window.Resources>
+        <!-- Akcent boja -->
+        <SolidColorBrush x:Key="AccentColor" Color="#0078D7"/>
+
+        <!-- Stil za “karticu” (Border) -->
+        <Style x:Key="CardStyle" TargetType="Border">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="CornerRadius" Value="12"/>
+            <Setter Property="Padding" Value="30"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect Color="#80000000"
+                                      BlurRadius="20"
+                                      ShadowDepth="0"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Stil za glavne dugmiće -->
+        <Style x:Key="ActionButton" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource AccentColor}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Height" Value="36"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="0,0,10,0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                CornerRadius="4">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="19*"/>
+                <RowDefinition Height="31*"/>
+            </Grid.RowDefinitions>
+
+            <notifications:NotificationArea
+                    Width="450"
+                    x:Name="WindowNotificationArea"
+                    Panel.ZIndex="300"
+                    MaxItems="3"
+                    Position="TopCenter"
+                    Margin="0,10,0,0"/>
+
+            <!-- Kartica za prijavu -->
+            <Border Style="{StaticResource CardStyle}"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Width="350" Margin="0,60,0,0" Grid.RowSpan="2">
+
+                <StackPanel>
+                    <!-- Naslov -->
+                    <TextBlock 
+                    FontSize="24"
+                    FontWeight="Bold"
+                    HorizontalAlignment="Center"
+                    Margin="0,0,0,20">
+                    <Run Text="Dobro" Foreground="Red"/><Run Text="došli!" Foreground="#0078D7"/>
+                    </TextBlock>
+
+                    <!-- Korisničko ime -->
+                    <TextBlock Text="Korisničko ime" FontWeight="SemiBold"/>
+                    <TextBox x:Name="UsernameBox"
+                         Height="30"
+                         Margin="0,5,0,2"
+                         Padding="5"
+                         GotFocus="NameTextBox_GotFocus"
+                         LostFocus="NameTextBox_LostFocus"/>
+                    <!-- ErrorBox za Username -->
+                    <TextBlock x:Name="UsernameError"
+                           Foreground="Red"
+                           FontSize="12"
+                           Visibility="Collapsed"
+                           Margin="0,0,0,15"
+                           Text=""/>
+
+                    <!-- Lozinka -->
+                    <TextBlock Text="Lozinka" FontWeight="SemiBold"/>
+                <PasswordBox x:Name="PasswordBox"
+                             Height="30"
+                             Margin="0,5,0,2"
+                             Padding="5"/>
+                <!-- ErrorBox za Password -->
+                    <TextBlock x:Name="PasswordError"
+                           Foreground="Red"
+                           FontSize="12"
+                           Visibility="Collapsed"
+                           Margin="0,0,0,15"
+                           Text=""/>
+
+                    <!-- Dugmići -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 20 0 0">
+                        <Button Style="{StaticResource ActionButton}"
+                            Content="Prijava"
+                            Click="LoginButton_Click"/>
+                        <Button Style="{StaticResource ActionButton}"
+                            Background="#FFCCCCCC"
+                            Foreground="#333333"
+                            Content="Izlaz"
+                            Click="ExitButton_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </Grid>
+</Window>

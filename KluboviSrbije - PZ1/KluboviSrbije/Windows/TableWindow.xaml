@@ -1,0 +1,132 @@
+<Window x:Class="KluboviSrbije.Windows.TableWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:notifications="clr-namespace:Notification.Wpf.Controls;assembly=Notification.Wpf"
+        xmlns:fa5 ="http://schemas.fontawesome.com/icons/"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="600"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        Background="Transparent"
+        WindowStartupLocation="CenterScreen"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    <Window.Resources>
+        <!-- Akcent boja -->
+        <SolidColorBrush x:Key="AccentColor" Color="#0078D7"/>
+        
+        <Style x:Key="ActionButton" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource AccentColor}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Height" Value="36"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="0,0,10,0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                CornerRadius="4">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <!--<notifications:NotificationArea
+        x:Name="WindowNotificationArea"
+        Panel.ZIndex="100"
+        MaxItems="3"
+        Position="TopCenter"
+        Margin="0,10,0,0"/>-->
+
+        <Canvas Width="600" Height="600">
+            <Path
+        Name="UIPath"
+        Fill="White"
+        Stroke="DarkGray"
+        StrokeThickness="2">
+                <Path.Data>
+                    <PathGeometry>
+                        <PathFigure IsClosed="True" StartPoint="300,0">
+                            <LineSegment Point="450,40" />
+                            <LineSegment Point="559,150" />
+                            <LineSegment Point="600,300" />
+                            <LineSegment Point="559,450" />
+                            <LineSegment Point="450,559" />
+                            <LineSegment Point="300,600" />
+                            <LineSegment Point="150,559" />
+                            <LineSegment Point="40,450" />
+                            <LineSegment Point="0,300" />
+                            <LineSegment Point="40,150" />
+                            <LineSegment Point="150,40" />
+                        </PathFigure>
+                    </PathGeometry>
+                </Path.Data>
+            </Path>
+
+            <TextBlock x:Name="TitleTextBlock" 
+                       FontSize="30" 
+                       FontWeight="Bold" 
+                       Canvas.Left="200" Canvas.Top="50"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Top"
+                       Panel.ZIndex="1">
+                <Run Text="Klubovi" Foreground="Red"/><Run Text=" Srbije" Foreground="#0078D7"/>
+            </TextBlock>
+
+            <Button BorderThickness="0" Background="Transparent" Width="25" Height="25" Margin="430,50,120,0" x:Name="ExitButton" Click="ExitButton_Click" HorizontalAlignment="Right" VerticalAlignment="Top" >
+                <fa5:SvgAwesome 
+                    Icon="Regular_TimesCircle"
+                    Foreground="Black"/>
+            </Button>
+
+            <DataGrid x:Name="UsersDataGrid"
+                      Canvas.Left="100" Canvas.Top="120"
+                      Width="400" Height="280"
+                      BorderBrush="Black"
+                      BorderThickness="1"
+                      AutoGenerateColumns="False"
+                      CanUserAddRows="False"
+                      CanUserDeleteRows="False"
+                      Background="Transparent"
+                      Panel.ZIndex="1">
+                <DataGrid.Columns>
+                    <DataGridCheckBoxColumn x:Name="SelectColon" Header="Oznaci" Binding="{Binding IsSelected}"></DataGridCheckBoxColumn>
+                    <DataGridHyperlinkColumn Header="Naziv" Binding="{Binding RtfFilePath}" IsReadOnly="True">
+                        <DataGridHyperlinkColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <EventSetter Event="Hyperlink.Click" Handler="Hyperlink_Click"></EventSetter>
+                            </Style>
+                        </DataGridHyperlinkColumn.ElementStyle>
+                    </DataGridHyperlinkColumn>
+                    <DataGridTemplateColumn Header="Slika">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding ImagePath}" Width="50" Height="50" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn Header="Datum cuvanja" Binding="{Binding DateAdded}" SortMemberPath="DateAdded" IsReadOnly="True">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock"></Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+            <StackPanel 
+                        Orientation="Horizontal"
+                        Canvas.Left="142" Canvas.Top="430">
+                <Button Style="{StaticResource ActionButton}" x:Name="AddBtn" Content="Dodaj" Click="AddButton_Click"/>
+                <Button Style="{StaticResource ActionButton}" x:Name="DeleteBtn"  Background="#FFCCCCCC" Foreground="#333333" Content="Izbrisi" Click="DeleteButton_Click"/>
+                <Button Style="{StaticResource ActionButton}" x:Name="LogOutBtn" Content="Odjavi se" Click="LogOutButton_Click"/>
+            </StackPanel>
+        </Canvas>
+    </Grid>
+</Window>

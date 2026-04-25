@@ -1,0 +1,373 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "FontAwesome5/2.1.11": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/FontAwesome5.Net.dll": {
+            "related": ".xml"
+          },
+          "lib/net6.0-windows7.0/FontAwesome5.dll": {
+            "related": ".Net.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/FontAwesome5.Net.dll": {
+            "related": ".xml"
+          },
+          "lib/net6.0-windows7.0/FontAwesome5.dll": {
+            "related": ".Net.xml;.xml"
+          }
+        }
+      },
+      "FontAwesome5.WPF/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/FontAwesome5.WPF.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/FontAwesome5.dll": {
+            "related": ".WPF.xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/FontAwesome5.WPF.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/FontAwesome5.dll": {
+            "related": ".WPF.xml"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Notification.Wpf/8.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.39",
+          "System.ValueTuple": "4.5.0"
+        },
+        "compile": {
+          "lib/net8.0-windows7.0/Notification.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Notification.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "System.ValueTuple/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FontAwesome5/2.1.11": {
+      "sha512": "OGwy+ZJoJR7U71eA3BenwP7rdVviVYp8p6ptdBEhoMRuRsSV4vGM/LypVBhonBI43WSxXBysSoE5uQ2SkYKNvA==",
+      "type": "package",
+      "path": "fontawesome5/2.1.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fontawesome5.2.1.11.nupkg.sha512",
+        "fontawesome5.nuspec",
+        "icon.png",
+        "lib/net40/FontAwesome5.Net.dll",
+        "lib/net40/FontAwesome5.Net.xml",
+        "lib/net40/FontAwesome5.dll",
+        "lib/net40/FontAwesome5.xml",
+        "lib/net462/FontAwesome5.Net.dll",
+        "lib/net462/FontAwesome5.Net.xml",
+        "lib/net462/FontAwesome5.dll",
+        "lib/net462/FontAwesome5.xml",
+        "lib/net472/FontAwesome5.Net.dll",
+        "lib/net472/FontAwesome5.Net.xml",
+        "lib/net472/FontAwesome5.dll",
+        "lib/net472/FontAwesome5.xml",
+        "lib/net5.0-windows7.0/FontAwesome5.Net.dll",
+        "lib/net5.0-windows7.0/FontAwesome5.Net.xml",
+        "lib/net5.0-windows7.0/FontAwesome5.dll",
+        "lib/net5.0-windows7.0/FontAwesome5.xml",
+        "lib/net5.0/FontAwesome5.dll",
+        "lib/net5.0/FontAwesome5.xml",
+        "lib/net6.0-windows7.0/FontAwesome5.Net.dll",
+        "lib/net6.0-windows7.0/FontAwesome5.Net.xml",
+        "lib/net6.0-windows7.0/FontAwesome5.dll",
+        "lib/net6.0-windows7.0/FontAwesome5.xml",
+        "lib/net6.0/FontAwesome5.dll",
+        "lib/net6.0/FontAwesome5.xml",
+        "lib/netcoreapp3.1/FontAwesome5.Net.dll",
+        "lib/netcoreapp3.1/FontAwesome5.Net.xml",
+        "lib/netcoreapp3.1/FontAwesome5.dll",
+        "lib/netcoreapp3.1/FontAwesome5.xml",
+        "lib/netstandard1.4/FontAwesome5.dll",
+        "lib/netstandard1.4/FontAwesome5.xml",
+        "lib/netstandard2.1/FontAwesome5.dll",
+        "lib/netstandard2.1/FontAwesome5.xml",
+        "lib/uap10.0/FontAwesome5.UWP.XML",
+        "lib/uap10.0/FontAwesome5.UWP.dll",
+        "lib/uap10.0/FontAwesome5.UWP.pri",
+        "lib/uap10.0/FontAwesome5.UWP/Fonts/Font Awesome 5 Brands-Regular-400.otf",
+        "lib/uap10.0/FontAwesome5.UWP/Fonts/Font Awesome 5 Free-Regular-400.otf",
+        "lib/uap10.0/FontAwesome5.UWP/Fonts/Font Awesome 5 Free-Solid-900.otf",
+        "lib/uap10.0/FontAwesome5.dll",
+        "lib/uap10.0/FontAwesome5.xml"
+      ]
+    },
+    "FontAwesome5.WPF/1.0.5": {
+      "sha512": "+ta0s83+rEJ4QSV/3tHBXy8y/y2aC0U6uqf2PiuJGQe5QdO/40Tc6TS2H23i8M5hI60hXaFkITweLyJHZ+sRLQ==",
+      "type": "package",
+      "path": "fontawesome5.wpf/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fontawesome5.wpf.1.0.5.nupkg.sha512",
+        "fontawesome5.wpf.nuspec",
+        "lib/net40/FontAwesome5.WPF.dll",
+        "lib/net40/FontAwesome5.WPF.xml",
+        "lib/net40/FontAwesome5.dll"
+      ]
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+      "sha512": "8PZKqw9QOcu42xk8puY4P1+EXHL9YGOR9b7qhaYx5cILHul456H073tj99vyPcCt0W0781T9RwHqkx507ZyUpQ==",
+      "type": "package",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.39",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Design/Microsoft.Xaml.Behaviors.Design.dll",
+        "lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "lib/net45/Microsoft.Xaml.Behaviors.pdb",
+        "lib/net45/Microsoft.Xaml.Behaviors.xml",
+        "lib/net5.0-windows7.0/Design/Microsoft.Xaml.Behaviors.DesignTools.dll",
+        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll",
+        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.pdb",
+        "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.xml",
+        "lib/netcoreapp3.1/Design/Microsoft.Xaml.Behaviors.DesignTools.dll",
+        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.dll",
+        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.pdb",
+        "lib/netcoreapp3.1/Microsoft.Xaml.Behaviors.xml",
+        "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+        "microsoft.xaml.behaviors.wpf.nuspec",
+        "tools/Install.ps1"
+      ]
+    },
+    "Notification.Wpf/8.0.0": {
+      "sha512": "9TWtl73QzorZmMaS01A5weTgvWBdp7dSpcg2lSlIfUMv+0d1cuIt4ooFkDn0GRUaSaUh7QqquzsDH94bAkdmCw==",
+      "type": "package",
+      "path": "notification.wpf/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "Notification.Wpf.xml",
+        "icon.png",
+        "lib/net46/Notification.Wpf.dll",
+        "lib/net46/Notification.Wpf.pdb",
+        "lib/net46/Notification.Wpf.xml",
+        "lib/net461/Notification.Wpf.dll",
+        "lib/net461/Notification.Wpf.pdb",
+        "lib/net461/Notification.Wpf.xml",
+        "lib/net47/Notification.Wpf.dll",
+        "lib/net47/Notification.Wpf.pdb",
+        "lib/net47/Notification.Wpf.xml",
+        "lib/net48/Notification.Wpf.dll",
+        "lib/net48/Notification.Wpf.pdb",
+        "lib/net48/Notification.Wpf.xml",
+        "lib/net5.0-windows7.0/Notification.Wpf.dll",
+        "lib/net5.0-windows7.0/Notification.Wpf.pdb",
+        "lib/net5.0-windows7.0/Notification.Wpf.xml",
+        "lib/net6.0-windows7.0/Notification.Wpf.dll",
+        "lib/net6.0-windows7.0/Notification.Wpf.pdb",
+        "lib/net6.0-windows7.0/Notification.Wpf.xml",
+        "lib/net7.0-windows7.0/Notification.Wpf.dll",
+        "lib/net7.0-windows7.0/Notification.Wpf.pdb",
+        "lib/net7.0-windows7.0/Notification.Wpf.xml",
+        "lib/net8.0-windows7.0/Notification.Wpf.dll",
+        "lib/net8.0-windows7.0/Notification.Wpf.pdb",
+        "lib/net8.0-windows7.0/Notification.Wpf.xml",
+        "lib/netcoreapp3.1/Notification.Wpf.dll",
+        "lib/netcoreapp3.1/Notification.Wpf.pdb",
+        "lib/netcoreapp3.1/Notification.Wpf.xml",
+        "notification.wpf.8.0.0.nupkg.sha512",
+        "notification.wpf.nuspec"
+      ]
+    },
+    "System.ValueTuple/4.5.0": {
+      "sha512": "okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "type": "package",
+      "path": "system.valuetuple/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.ValueTuple.dll",
+        "lib/net461/System.ValueTuple.xml",
+        "lib/net47/System.ValueTuple.dll",
+        "lib/net47/System.ValueTuple.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.ValueTuple.dll",
+        "lib/netstandard1.0/System.ValueTuple.xml",
+        "lib/netstandard2.0/_._",
+        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
+        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net461/System.ValueTuple.dll",
+        "ref/net47/System.ValueTuple.dll",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard2.0/_._",
+        "ref/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.valuetuple.4.5.0.nupkg.sha512",
+        "system.valuetuple.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "FontAwesome5 >= 2.1.11",
+      "FontAwesome5.WPF >= 1.0.5",
+      "Notification.Wpf >= 8.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Korisnik\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\KluboviSrbije.csproj",
+      "projectName": "KluboviSrbije",
+      "projectPath": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\KluboviSrbije.csproj",
+      "packagesPath": "C:\\Users\\Korisnik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Korisnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "FontAwesome5": {
+            "target": "Package",
+            "version": "[2.1.11, )"
+          },
+          "FontAwesome5.WPF": {
+            "target": "Package",
+            "version": "[1.0.5, )"
+          },
+          "Notification.Wpf": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FontAwesome5.WPF 1.0.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FontAwesome5.WPF",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

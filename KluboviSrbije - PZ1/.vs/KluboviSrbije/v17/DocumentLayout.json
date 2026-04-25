@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\windows\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\windows\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\windows\\addwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\windows\\addwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\database\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\database\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\windows\\viewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\windows\\viewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\windows\\viewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\windows\\viewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\windows\\tablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\windows\\tablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\modeli\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\modeli\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\modeli\\toastnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\modeli\\toastnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\modeli\\kluboviklasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\modeli\\kluboviklasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\windows\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\windows\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\windows\\editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\windows\\editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\windows\\tablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\windows\\tablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\windows\\viewwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\windows\\viewwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|c:\\users\\korisnik\\desktop\\ftn\\iuis\\klubovisrbije\\klubovisrbije\\windows\\editwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D72B92D3-9FB7-4062-BAD6-60AE70836AA9}|KluboviSrbije\\KluboviSrbije.csproj|solutionrelative:klubovisrbije\\windows\\editwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\AddWindow.xaml",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Windows\\AddWindow.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\AddWindow.xaml",
+              "RelativeToolTip": "KluboviSrbije\\Windows\\AddWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T08:33:20.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\ViewWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Windows\\ViewWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\ViewWindow.xaml.cs",
+              "RelativeToolTip": "KluboviSrbije\\Windows\\ViewWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:33:15.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\ViewWindow.xaml",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Windows\\ViewWindow.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\ViewWindow.xaml",
+              "RelativeToolTip": "KluboviSrbije\\Windows\\ViewWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T20:22:57.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TableWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\TableWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Windows\\TableWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\TableWindow.xaml.cs",
+              "RelativeToolTip": "KluboviSrbije\\Windows\\TableWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:30:19.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\AddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Windows\\AddWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\AddWindow.xaml.cs",
+              "RelativeToolTip": "KluboviSrbije\\Windows\\AddWindow.xaml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:33:34.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KluboviSrbije\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KluboviSrbije\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:09:34.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "users.xml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\DataBase\\users.xml",
+              "RelativeDocumentMoniker": "KluboviSrbije\\DataBase\\users.xml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\DataBase\\users.xml",
+              "RelativeToolTip": "KluboviSrbije\\DataBase\\users.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-14T13:48:53.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KluboviSrbije\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\MainWindow.xaml",
+              "RelativeToolTip": "KluboviSrbije\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T15:45:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Modeli\\User.cs",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Modeli\\User.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Modeli\\User.cs",
+              "RelativeToolTip": "KluboviSrbije\\Modeli\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:12:24.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToastNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Modeli\\ToastNotification.cs",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Modeli\\ToastNotification.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Modeli\\ToastNotification.cs",
+              "RelativeToolTip": "KluboviSrbije\\Modeli\\ToastNotification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:12:25.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KluboviKlasa.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Modeli\\KluboviKlasa.cs",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Modeli\\KluboviKlasa.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Modeli\\KluboviKlasa.cs",
+              "RelativeToolTip": "KluboviSrbije\\Modeli\\KluboviKlasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:12:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\EditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Windows\\EditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\EditWindow.xaml.cs",
+              "RelativeToolTip": "KluboviSrbije\\Windows\\EditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T08:32:45.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\EditWindow.xaml",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Windows\\EditWindow.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\EditWindow.xaml",
+              "RelativeToolTip": "KluboviSrbije\\Windows\\EditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-23T11:01:44.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TableWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\TableWindow.xaml",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Windows\\TableWindow.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\TableWindow.xaml",
+              "RelativeToolTip": "KluboviSrbije\\Windows\\TableWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T07:30:20.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\App.xaml.cs",
+              "RelativeDocumentMoniker": "KluboviSrbije\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\App.xaml.cs",
+              "RelativeToolTip": "KluboviSrbije\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:45:32.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\App.xaml",
+              "RelativeDocumentMoniker": "KluboviSrbije\\App.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\App.xaml",
+              "RelativeToolTip": "KluboviSrbije\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-22T13:45:01.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\ViewWindow.xaml",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Windows\\ViewWindow.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\ViewWindow.xaml",
+              "RelativeToolTip": "KluboviSrbije\\Windows\\ViewWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T20:22:53.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\EditWindow.xaml",
+              "RelativeDocumentMoniker": "KluboviSrbije\\Windows\\EditWindow.xaml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\Windows\\EditWindow.xaml",
+              "RelativeToolTip": "KluboviSrbije\\Windows\\EditWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T17:40:23.326Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

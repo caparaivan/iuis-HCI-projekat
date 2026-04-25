@@ -1,0 +1,120 @@
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.dll
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.dll
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.xml
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.xml
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\source\repos\Simulator-of-infrastructure-system_PZ2_HCI\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.dll
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.dll
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.xml
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.xml
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\source\repos\PZ2 CG2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.dll
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.dll
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.xml
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.xml
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.dll
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.dll
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.xml
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\FontAwesome5.Net.xml
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb

@@ -1,0 +1,128 @@
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\acile\Desktop\Simulator_infrastrukturnog_sistema_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\acile\Desktop\Simulator of infrastructure system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\acile\Desktop\Projekat Hci\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Korisnik\Source\Repos\Simulator-of-infrastructure-system_PZ2_HCI\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Korisnik\source\repos\PZ2 CG2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Korisnik\Desktop\prm\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Korisnik\Desktop\PR105-2022 Capara Ivan\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb

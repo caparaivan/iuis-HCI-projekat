@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNkWwJg1VXs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\ftn\\iuis\\KluboviSrbije\\KluboviSrbije\\KluboviSrbije.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\fontawesome5\\2.1.11\\fontawesome5.2.1.11.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\fontawesome5.wpf\\1.0.5\\fontawesome5.wpf.1.0.5.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\notification.wpf\\8.0.0\\notification.wpf.8.0.0.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FontAwesome5.WPF 1.0.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FontAwesome5.WPF",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

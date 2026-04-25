@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\FK_Vojvodina_logo.svg.png" />
+    <None Remove="Images\Flux_Dev_A_wearyeyed_German_goalkeeper_in_his_mid30s_with_a_st_3.jpg" />
+    <None Remove="Images\Partizan.png" />
+    <None Remove="Images\ФК_Црвена_звезда.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome5" Version="2.1.11" />
+    <PackageReference Include="FontAwesome5.WPF" Version="1.0.5" />
+    <PackageReference Include="Notification.Wpf" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="RTF\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\FK_Vojvodina_logo.svg.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Partizan.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\ФК_Црвена_звезда.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>
