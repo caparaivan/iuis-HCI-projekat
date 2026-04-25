@@ -5,7 +5,3 @@
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![WCF](https://img.shields.io/badge/WCF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=code&logoColor=white)
-![TCP](https://img.shields.io/badge/TCP-006400?style=for-the-badge&logo=networkx&logoColor=white)
-
-
-
